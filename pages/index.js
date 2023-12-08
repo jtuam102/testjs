@@ -1,9 +1,10 @@
 import React from "react";
-import TypeWritter from "typewritter-effect";
+import HeroSection from "@/components/HeroSection";
 
-const HeroSection = () => {
-    return(
-      <main>className="py-16 mt-16 md:flex"</main>
-    )
-}
-export default HeroSection;
+export default function Home(){
+  return(
+    <div className="flex min-h-screen flex-col">
+      <HeroSection />
+    </div>
+  );
+};
