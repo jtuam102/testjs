@@ -1,0 +1,12 @@
+potato,5,98
+cabbage,2,37
+banana,4,89
+corn,7,0
+lettuce,3,90
+brocolli,5,24
+sushi,4,25
+cauliflower,2,96
+crab,10,100
+fishy,6,99
+apple,6,119
+mushroom,3,199

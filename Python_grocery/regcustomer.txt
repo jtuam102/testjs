@@ -1,0 +1,7 @@
+Ali;112233;Ali mo;male;1/1/1995;55,taman midah;ali@gmail.com;0111222334;
+ben;jjkk;BEN;Male;5/4/1995;1,taman desa;ben10@hotmail.com;0111333334;
+henlo;99;hen;male;4/4/1994;2,taman eko;hen@gmail.com;012-4667777;
+mion;1234;da;male;1/1/2022;1,taman yes;m@gmail.com;0111233455;
+JO;123;J;female;1/1/2011;1,taman brain;j@hotmail.com;0111222233;
+Green;gr123;Greeny;male;1/1/1994;gr,taman hijau;gr@gmail.com;012-7342131;
+eq;1234;eq1;male;1/11/1977;5,taman qe;eq@gmail.com;015-7456534;
